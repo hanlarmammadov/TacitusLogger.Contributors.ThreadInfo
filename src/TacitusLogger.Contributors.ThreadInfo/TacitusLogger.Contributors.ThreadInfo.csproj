@@ -2,8 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Khanlar Mammadov</Authors>
+    <Description>Extension contributor for TacitusLogger that generates additional info related to the thread on which the logger method was called.
+Attention: TacitusLogger.Contributors.ThreadInfo is currently in Alpha phase. This means you should not use it in any production code.</Description>
+    <PackageReleaseNotes>Attention: TacitusLogger.Contributors.ThreadInfo is currently in Alpha phase. This means you should not use it in any production code.</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/khanlarmammadov/TacitusLogger.Contributors.ThreadInfo</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/khanlarmammadov/TacitusLogger.Contributors.ThreadInfo</RepositoryUrl>
+    <PackageLicenseUrl>https://www.apache.org/licenses/LICENSE-2.0</PackageLicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>
