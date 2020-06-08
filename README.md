@@ -10,7 +10,7 @@ Dependencies:
 
 ## Installation
 
-The NuGet <a href="http://example.com/" target="_blank">package</a>:
+The NuGet <a href="https://www.nuget.org/packages/TacitusLogger.Contributors.ThreadInfo" target="_blank">package</a>:
 
 ```powershell
 PM> Install-Package TacitusLogger.Contributors.ThreadInfo
